@@ -1,0 +1,6 @@
+Name:                William Voss
+ID:                  2
+Importance:          2
+POV:                 True
+Full Summary:        Filho de Alaric Voss, fundador da Lumen.
+Color:               #bb86ee

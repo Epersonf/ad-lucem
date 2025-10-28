@@ -1,0 +1,5 @@
+Name:                Alaric Voss
+ID:                  1
+Importance:          1
+POV:                 True
+Color:               #bfe39b
