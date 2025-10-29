@@ -1,4 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.0">
-  <body/>
+  <body>
+    <outline name="Itens mágicos" ID="0">
+      <outline name="Cronógrafo Sibilino" ID="1"/>
+    </outline>
+  </body>
 </opml>

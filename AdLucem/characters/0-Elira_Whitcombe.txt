@@ -1,5 +1,0 @@
-Name:                Elira Whitcombe
-ID:                  0
-Importance:          2
-POV:                 True
-Color:               #d5ceed

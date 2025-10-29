@@ -1,6 +1,8 @@
 Name:                William Voss
 ID:                  2
 Importance:          2
-POV:                 True
-Full Summary:        Filho de Alaric Voss, fundador da Lumen.
+POV:                 False
+Full Summary:        William Voss é filho de Alaric Voss, fundador da Lumen.
+                     
+                     Mata seu próprio pai ao fim da história, para impedir que ele use Elira como autômata pra fins ruins.
 Color:               #bb86ee

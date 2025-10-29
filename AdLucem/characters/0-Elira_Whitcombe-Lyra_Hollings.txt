@@ -1,0 +1,14 @@
+Name:                Elira Whitcombe/Lyra Hollings
+ID:                  0
+Importance:          2
+POV:                 False
+Full Summary:        Elira Whitcombe é a protagonista da história de origem da Lúmen Academy, ambientada na Inglaterra Vitoriana.
+                     
+                     Filha de um relojoeiro que foi à falência, Elira é uma jovem analítica e precisa que consegue uma vaga na recém-fundada Lúmen Academy, em Coventry. No entanto, ela só é aceita na condição de "ouvinte" — uma política que permite que mulheres assistam às aulas, mas as proíbe de receber diplomas ou participar de aulas práticas.
+                     
+                     Inicialmente, ela entra em conflito direto com William Voss, o filho privilegiado do reitor, que representa a instituição que roubou o legado de seu pai. Ao longo da história, ela deve navegar pela opressão de gênero da academia e sua política mortal, usando sua inteligência para expor a verdade e desmantelar a operação do Reitor Voss.
+                     
+                     Elira na verdade se infiltrou na instituição se aproveitando das vagas para alunos para tentar investigar mais sobre como Alaric Voss conseguiu roubar o legado de seu pai. Ela adotou o nome falso de Lyra Hollings para todos da instituição.
+                     
+                     Elira é, na verdade, um autômato criado pelo pai. Alaric não sabe que o pai de Elira conseguiu fazer isso. Ela foi programada, pra sempre que descobrir ser um robô, apagar isso de sua memória.
+Color:               #d5ceed

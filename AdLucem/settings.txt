@@ -26,10 +26,12 @@
         "autohide-left": true,
         "autohide-top": true
     },
-    "lastTab": 2,
+    "lastTab": 4,
     "openIndexes": [
         0,
-        [],
+        [
+            "2"
+        ],
         null
     ],
     "outlineViewColumns": [
