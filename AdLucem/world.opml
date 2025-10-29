@@ -3,6 +3,7 @@
   <body>
     <outline name="Itens mágicos" ID="0">
       <outline name="Cronógrafo Sibilino" ID="1"/>
+      <outline name="Condutor Harmônico de Voss/Whitcombe" ID="2" description="Invenção de Edmund Whitcombe  &#10;&#10;Consegue extrair Éter do ar e utilizar magia em máquinas a vapor.&#10;&#10;Patente roubada por Alaric Voss"/>
     </outline>
   </body>
 </opml>
