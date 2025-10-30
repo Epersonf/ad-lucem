@@ -1,6 +1,6 @@
 Name:                Alaric Voss
 ID:                  1
-Importance:          1
+Importance:          2
 POV:                 False
 Full Summary:        Alaric Voss é o rosto do progresso. Em uma Coventry movida a vapor e magia, ele é celebrado como o visionário que transformou a feitiçaria artesanal em uma indústria global. Ele fundou a Lúmen Academy com o pretexto de "democratizar" a magia, mas, na realidade, a criou como um centro de pesquisa e desenvolvimento de luxo para sua empresa, a Lumenox Corp., que domina o mercado de engenhocas arcanas e energia etérea. Ele é o epítome do "dinheiro novo" — imensamente rico, poderoso e totalmente desprovido de escrúpulos.
                      

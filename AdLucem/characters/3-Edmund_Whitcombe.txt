@@ -2,7 +2,7 @@ Name:                Edmund Whitcombe
 ID:                  3
 Importance:          1
 POV:                 False
-Full Summary:        Edmund Whitcomb foi um dos primeiros estudiosos a propor que a magia não era uma força mística, mas um fenômeno mensurável, rítmico e replicável.
+Full Summary:        Edmund Whitcombe foi um dos primeiros estudiosos a propor que a magia não era uma força mística, mas um fenômeno mensurável, rítmico e replicável.
                      
                      Sonhava com uma tecnologia capaz de preservar a consciência humana — não por imortalidade, mas para que o conhecimento não se perdesse.
                      

@@ -1,0 +1,5 @@
+Name:                Adrian Valehart
+ID:                  6
+Importance:          2
+POV:                 True
+Color:               #fab2f0

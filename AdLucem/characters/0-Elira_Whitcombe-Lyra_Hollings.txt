@@ -2,6 +2,20 @@ Name:                Elira Whitcombe/Lyra Hollings
 ID:                  0
 Importance:          2
 POV:                 False
+Motivation:          Elira acredita ter sido apenas a filha sobrevivente de um inventor injustiçado. Cresceu alimentada por lembranças fragmentadas e por um senso de perda que não compreende totalmente — ecos das memórias implantadas por Edmund Whitcombe. Sua existência é, em si, uma investigação: busca entender quem foi o pai, o que lhe foi tirado e por quê.
+                     
+                     Ao descobrir que é um autômato e que suas memórias são reconstruções da lembrança de outro, sua missão muda. Já não é apenas vingança. É uma busca por identidade:
+                     
+                     “Se sou feita da memória de alguém, o que resta de mim é mera invenção?”
+                     
+                     No fim, a motivação de Elira se torna paradoxal — ela luta para destruir o homem que roubou a alma do pai, sem perceber que ela mesma é a prova viva de que ele venceu.
+Goal:                Infiltrar-se na Lúmen Academy sob o nome de Lyra Hollings para coletar provas de que Alaric Voss roubou as patentes e o legado de Edmund Whitcombe — e expor publicamente a fraude que deu origem à Lumenox.
+Conflict:            Elira enfrenta a estrutura patriarcal e corrupta da Lúmen Academy, uma instituição que simboliza o roubo do legado de seu pai e o próprio apagamento de mulheres da ciência. Como “ouvinte”, ela precisa operar à margem — sem acesso a laboratórios, documentos ou credibilidade.
+                     Sua luta é contra um sistema que nega sua voz e, ao mesmo tempo, busca explorá-la quando útil.
+Epiphany:            A revelação não vem num instante de glória, mas de colapso.
+                     Após descobrir os registros ocultos de Edmund e as anotações finais de Alaric, Elira entende o paradoxo central de sua existência: ela nunca foi a filha que perdeu o pai — o pai é quem sobrevive dentro dela.
+                     Durante toda a jornada, acreditava lutar para restaurar o legado paterno, mas descobre que o verdadeiro legado é ela mesma — o último experimento de Edmund, a prova viva de que a consciência não pode ser propriedade.
+Phrase Summary:      Sua condição de autômato é a metáfora para a posição da mulher na era vitoriana: inteligente, capaz, mas tratada como uma ferramenta sem agência própria. O conflito interno (a programação que apaga sua verdadeira natureza) adiciona uma camada de tragédia e suspense.
 Full Summary:        Elira Whitcombe é a protagonista da história de origem da Lúmen Academy, ambientada na Inglaterra Vitoriana.
                      
                      Filha de um relojoeiro que foi à falência, Elira é uma jovem analítica e precisa que consegue uma vaga na recém-fundada Lúmen Academy, em Coventry. No entanto, ela só é aceita na condição de "ouvinte" — uma política que permite que mulheres assistam às aulas, mas as proíbe de receber diplomas ou participar de aulas práticas.
@@ -11,4 +25,6 @@ Full Summary:        Elira Whitcombe é a protagonista da história de origem da
                      Elira na verdade se infiltrou na instituição se aproveitando das vagas para alunos para tentar investigar mais sobre como Alaric Voss conseguiu roubar o legado de seu pai. Ela adotou o nome falso de Lyra Hollings para todos da instituição.
                      
                      Elira é, na verdade, um autômato criado pelo pai. Alaric não sabe que o pai de Elira conseguiu fazer isso. Ela foi programada, pra sempre que descobrir ser um robô, apagar isso de sua memória.
+                     
+                     “Quando seu pai te recriou, ele não trouxe ela de volta — trouxe o que lembrava dela. Você é feita da memória dele, não da sua própria. De certo modo… ele vive em você. Sempre viveu. Sempre viverá.” - William Voss
 Color:               #d5ceed
