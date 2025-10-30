@@ -2,5 +2,5 @@ Name:                Mira Ravenshade
 ID:                  5
 Importance:          1
 POV:                 True
-Full Summary:        Colega de quarto de Lyra.
+Full Summary:        Mira Ravenshade é colega de quarto de Lyra.
 Color:               #cea7f4

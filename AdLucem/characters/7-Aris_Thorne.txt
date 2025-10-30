@@ -1,0 +1,6 @@
+Name:                Aris Thorne
+ID:                  7
+Importance:          1
+POV:                 True
+Full Summary:        Professor da faculdade, permite que mulheres participem das aulas. Só não fazem prova.
+Color:               #f6f3c0

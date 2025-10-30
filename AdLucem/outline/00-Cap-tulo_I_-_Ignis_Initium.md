@@ -68,9 +68,13 @@ summaryFull:    O capítulo se inicia com um dirigível majestoso atravessando o
                 
                 Os dois observam enquanto ela anda pelo corredor.
                 
-                Horas depois, durante o primeiro ciclo noturno do Condutor, uma falha etérica surge e rapidamente se transforma em colapso.
+                Chegando no quarto, Lyra conhece sua colega de quarto, Mira Ravenshade. Elas conversam e se conhecem.
+                
+                Algum tempo depois, durante o primeiro ciclo noturno do Condutor, uma falha etérica surge e rapidamente se transforma em colapso.
                 
                 A explosão devasta o átrio central; o clarão se reflete no relógio de Lyra, que o fecha com um clique.
+                
+                Fim do capítulo.
 compile:        2
 charCount:      7792
 
